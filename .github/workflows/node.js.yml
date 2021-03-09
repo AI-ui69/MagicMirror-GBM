@@ -29,7 +29,7 @@ jobs:
       uses: creyD/prettier_action@v3.3
       with:
         # This part is also where you can pass other options, for example:
-        prettier_options: --write **/*.{js,css,json,md,yml}
+        prettier_options: --write **/*.{js,css,json,md}
     
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
