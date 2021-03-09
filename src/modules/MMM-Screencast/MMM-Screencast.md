@@ -5,8 +5,8 @@
 Permette di effettuare il cast di contenuti multimediali (video & audio) da
 diversi dispositivi smart al MagicMirror.
 
-__E' necessario connettere il dispositivo smart (e.g. Smartphone, Tablet...) dal quale
-si invia il cast e il MagicMirror alla stessa rete locale (LAN).__
+**E' necessario connettere il dispositivo smart (e.g. Smartphone, Tablet...) dal quale
+si invia il cast e il MagicMirror alla stessa rete locale (LAN).**
 
 ---
 
@@ -16,7 +16,7 @@ si invia il cast e il MagicMirror alla stessa rete locale (LAN).__
 {
     module: 'MMM-Screencast',
     // This position is for a hidden <div /> and not the screencast window
-    position: 'bottom_right', 
+    position: 'bottom_right',
     config: {
         position: 'center',
         height: 600,
