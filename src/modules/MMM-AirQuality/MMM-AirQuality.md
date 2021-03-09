@@ -19,7 +19,7 @@ dell'aria nella zona desiderata specificata.
         lang: 'eng',
         updateInterval: 30,
         showLocation: true,
-        showIndex: true
+        showIndex: true 
     }
 }
 ```
@@ -45,7 +45,7 @@ Questa è la visualizzazione del modulo in situazione di funzionamento corretto:
 ![resources/MMM-AirQuality_correct_workflow.PNG](resources/MMM-AirQuality_correct_workflow.PNG)
 
 Se il modulo rimane sulla seguente schermata, probabilmente la zona da analizzare
-specificata **non** è supportata o è presente un'altra forma di
+specificata __non__ è supportata o è presente un'altra forma di
 errore nelle proprietà specificate nel file `config.js`:
 
 ![resources/loading_air_quality_index_hang.PNG](resources/loading_air_quality_index_hang.PNG)

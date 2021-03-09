@@ -24,7 +24,7 @@ Lista di Moduli (aka: funzionalità) da inserire potenzialmente nello specchio.
 | MMM-Mail <p style="background-color:yellow;">MAIL, PSSW, LOW-LEVEL-SECURITY-APP</p> | Permette la visualizzazione delle email in entrata (sola lettura. Nessuna opzione di invio.) | [MMM-Mail](https://github.com/MMPieps/MMM-Mail)                                   |
 | annyang <p style="background-color:green;">NO API KEY</p>                           | Gestisce il riconoscimento vocale                                                            | [annyang](https://github.com/TalAter/annyang)                                     |
 | openlayers <p style="background-color:green;">NO API KEY</p>                        | Mostra mappe interattive                                                                     | [openlayers](https://github.com/openlayers/openlayers)                            |
-| raspotify <p style="background-color:green;">NO API KEY</p>                         | Abilità un dispositivo **Raspberry Pi** al **Cast Spotify**.                                 | [raspotify](https://github.com/dtcooper/)                                         |
+| raspotify <p style="background-color:green;">NO API KEY</p>                         | Abilità un dispositivo __Raspberry Pi__ al __Cast Spotify__.                                 | [raspotify](https://github.com/dtcooper/)                                         |
 | MMM-Online-State <p style="background-color:green;">NO API KEY</p>                  | Visualizza stato connessione.                                                                | [MMM-Online-State](https://github.com/Legion2/MMM-Online-State)                   |
 
 ---

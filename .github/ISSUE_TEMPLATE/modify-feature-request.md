@@ -3,7 +3,8 @@ name: Modify Feature request
 about: Richiedi modifiche alle features
 title: "[MODIFY-FEATURE]"
 labels: modify-feature
-assignees: ""
+assignees: ''
+
 ---
 
 ## Brief

@@ -3,7 +3,8 @@ name: New Feature request
 about: Richiedi aggiunte alle features
 title: "[NEW-FEATURE]"
 labels: new-feature
-assignees: ""
+assignees: ''
+
 ---
 
 ## Brief
