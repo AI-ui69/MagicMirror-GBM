@@ -8,29 +8,28 @@
  */
 
 Module.register("MMM-Screencast", {
-
 	requiresVersion: "2.1.0", // Required version of MagicMirror
 
-	start: function() {
+	start: function () {
 		Log.info("Starting module: " + this.name);
-		this.sendSocketNotification('SET_CONFIG', this.config);
+		this.sendSocketNotification("SET_CONFIG", this.config);
 	},
 
-	getDom: function() {
+	getDom: function () {
 		// load fake div
 		const div = document.createElement("div");
 		return div;
 	},
-	socketNotificationReceived: function(notification, payload) {
-		if (notification.includes('ERROR')) {
+	socketNotificationReceived: function (notification, payload) {
+		if (notification.includes("ERROR")) {
 			const { message } = payload;
 			Log.error(`${notification}: ${message}`);
 		}
 		this.sendNotification(notification, payload);
 	},
-	notificationReceived: function(notification, payload, sender) {
-		if (notification.includes('MMM-Screencast')) {
+	notificationReceived: function (notification, payload, sender) {
+		if (notification.includes("MMM-Screencast")) {
 			this.sendSocketNotification(notification);
 		}
-  },
+	}
 });

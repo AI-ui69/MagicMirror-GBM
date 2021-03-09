@@ -3,8 +3,7 @@ name: Bug report
 about: Segnala un bug
 title: "[BUG]"
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
 ## Brief
@@ -20,6 +19,7 @@ Una descrizione immediata e concisa del bug.
 
 **Causa**
 Steps per causare / riprodurre il bug:
+
 1. Clicca '...'
 
 **Comportamento corretto**

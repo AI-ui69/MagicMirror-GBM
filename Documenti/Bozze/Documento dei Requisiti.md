@@ -2,7 +2,7 @@
 
 Documento dei requisiti
 
-*ver. 1.0* 
+_ver. 1.0_
 
 16/02/2021
 
@@ -38,7 +38,7 @@ Le figure che influenzano lo sviluppo del sistema software sono:
 
 ### 2.1 Requisiti funzionali
 
-- 2.1.1  Il sistema dovrà consentire la modifica delle impostazioni del sistema software stesso
+- 2.1.1 Il sistema dovrà consentire la modifica delle impostazioni del sistema software stesso
 
   - 2.1.1.1 Il sistema dovrà consentire la gestione delle impostazioni di connettività
   - 2.1.1.2 Il sistema dovrà consentire la gestione del microfono e della fotocamera
@@ -51,7 +51,7 @@ Le figure che influenzano lo sviluppo del sistema software sono:
   - 2.1.1.10 Il sistema dovrà consentire la modifica dello sfondo
 
 - 2.1.2 Il sistema dovrà integrare un modulo per il meteo
-  
+
   - 2.1.2.1 Il sistema dovrà consentire la visualizzazione del meteo
   - 2.1.2.2 Il sistema dovrà consentire la modifica della zona interessata
   - 2.1.2.3 Il sistema dovrà consentire la modifica della scala termometrica
@@ -81,7 +81,7 @@ Questa sezione è vuota (per ora).
 L'interfaccia proposta dal sistema è stata appositamente studiata per garantire una fruizione di contenuti intuitiva ed immediata.
 
 - 3.1.1 Interfaccia principale
-  
+
   - 3.1.1.1 Visualizzazione della data e dell'ora corrente
   - 3.1.1.2 Visualizzazione del meteo
   - 3.1.1.3 Visualizzazione delle news
@@ -90,7 +90,7 @@ L'interfaccia proposta dal sistema è stata appositamente studiata per garantire
   - 3.1.1.6 Visualizzazione delle e-mail
 
 - 3.1.2 Interfaccia browser
-  
+
   - 3.1.2.1 Visualizzazione risultati navigazione web
 
 - 3.1.3 Interfaccia timer
@@ -102,11 +102,11 @@ L'interfaccia proposta dal sistema è stata appositamente studiata per garantire
 - 3.1.5 Interfaccia riproduzione di contenuti multimediali
 
 - 3.1.6 Interfaccia mappe
-  
+
   - 3.1.6.1 Visualizzazione delle mappe
 
 ### 3.2 Requisiti tecnologici
-  
+
 - 3.2.1 Raspberry Pi (modello?)
 - 3.2.2 Microfono
 - 3.2.3 Fotocamera
@@ -116,7 +116,7 @@ L'interfaccia proposta dal sistema è stata appositamente studiata per garantire
 - 3.2.7 Two-way mirror
 
 ### 3.3 Requisiti di prestazione
-  
+
 Non si registrano particolari esigenze in questo ambito.
 
 ### 3.4 Requisiti di sicurezza
@@ -144,10 +144,10 @@ Questa sezione è vuota.
 ---
 
 ## 4 Appendici
+
 ### 4.1 Glossario
 
 - **Browser**: programma per navigare in Internet che inoltra la richiesta di un documento alla rete e ne consente la visualizzazione una volta arrivato.
 
 - **Human-centered design**: approccio di problem solving che coinvolge la prospettiva del cliente in tutti gli step della risoluzione stessa.
-  
 - **Two-way mirror**: particolare tipo di specchio che da un lato riflette la luce mentre dall'altro ne permette il passaggio.
